@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Orchid Mobility</title>
-    <link>https://orchid-mobility.github.io/</link>
+    <link>https://orchidmobility.co.uk/</link>
     <description>Recent content on Orchid Mobility</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://orchid-mobility.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://orchidmobility.co.uk/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
